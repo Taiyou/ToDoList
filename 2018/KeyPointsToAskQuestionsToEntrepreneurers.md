@@ -1,3 +1,6 @@
+These questions will lead me to create hypotheses to start a new company.
+
+
 - How did they start making plans?
 - How did they get funds? Where did they get?
 - How did they start writing business plan?
