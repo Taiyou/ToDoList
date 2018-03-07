@@ -1,8 +1,8 @@
 # This is a note for improvement of data science.
 Drawbacks to improve
-# 1 Programming experience of data analysis
-# 2 Knowledge of machine learning
-# 3 No product of machine learning
+  - 1 Programming experience of data analysis
+  - 2 Knowledge of machine learning
+  - 3 No product of machine learning
 
 # Practical counterplans.
   - 1 take online courses such as Coursera and Udacity
